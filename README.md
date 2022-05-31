@@ -1,6 +1,6 @@
 # ACTIVITY
-Python program to read a file containing numbers and segregate even and odd numbers into seperate files
-The file even_odd.txt contains eleven integers ie: from 0–10 . Each line consists of an integer . For eg
+**Python program to read a file containing numbers and segregate even and odd numbers into seperate files
+The file even_odd.txt contains eleven integers ie: from 0–10** . Each line consists of an integer . For eg
 
 0
 
